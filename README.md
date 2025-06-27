@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and b
 - 💼 **Profession**: Software Developer (not currently working, but always building!)
 - 🌱 **Currently Learning**: LLMs (Large Language Models), AI agents, and the latest in machine learning
 - 💡 **Interests**: Full Stack Development, AI, Open Source, Machine Learning
-- 🛠️ **Tech Stack**: React, Express, NestJS, Node.js, Python, Backend development, OOP
+- 🛠️ **Tech Stack**: TypeScript, React, Express, NestJS, Node.js, Python, Backend development, OOP
 
 ---
 
