@@ -26,9 +26,8 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and b
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/kshitij-jais-031998/)]
-[![Email](kshitij5069@gmail.com)]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kshitij-jais-031998/)
+[![Email](https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail)](mailto:kshitij5069@gmail.com)
 ---
 
 <!--
